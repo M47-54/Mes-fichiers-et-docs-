@@ -1,0 +1,241 @@
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Nom : Prenom : Telephone : Passager enregistre avec l'identifiant #1
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Nom : Prenom : Telephone : Passager enregistre avec l'identifiant #2
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : [Vol AF101] Cotonou -> Paris | 20/12/2026 08:30 | Prix : 450000 FCFA | Places : 2/2
+[Vol ET205] Cotonou -> Addis-Abeba | 22/12/2026 14:00 | Prix : 380000 FCFA | Places : 3/3
+[Vol KQ310] Cotonou -> Nairobi | 25/12/2026 06:15 | Prix : 320000 FCFA | Places : 1/1
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Identifiant du passager : Numero du vol : Reservation #1 creee (EN ATTENTE).
+Valider la reservation maintenant ? (o/n) : Reservation validee : la place est reservee definitivement.
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Identifiant du passager : Numero du vol : [ERREUR] Ce passager a deja reserve ce vol.
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Identifiant du passager : Numero du vol : [ERREUR] Passager non enregistre : enregistrez-le d'abord.
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Identifiant de la reservation : Mode de paiement (Especes / Mobile Money / Carte) : Paiement enregistre : 450000 FCFA
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Identifiant de la reservation a annuler : Reservation annulee.
+----- Details de la reservation #1 -----
+[Passager #1] Marie Adjovi | Tel : 97000001
+[Vol AF101] Cotonou -> Paris | 20/12/2026 08:30 | Prix : 450000 FCFA | Places : 2/2
+Statut        : ANNULEE
+Paiement      : Effectue
+Remboursement : 360000 FCFA (frais d'annulation 20%)
+[Paiement #1] Reservation #1 | 450000 FCFA | Mode : Mobile Money
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Identifiant de la reservation : Mode de paiement (Especes / Mobile Money / Carte) : [ERREUR] Reservation annulee : paiement impossible.
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Identifiant du passager : Numero du vol : Reservation #2 creee (EN ATTENTE).
+Valider la reservation maintenant ? (o/n) : Reservation validee : la place est reservee definitivement.
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Identifiant du passager : Numero du vol : [ERREUR] Vol complet : reservation impossible.
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : [Reservation #1] Marie Adjovi | Vol AF101 (Paris) | Statut : ANNULEE | Paye : Oui | Rembourse : 360000 FCFA
+[Reservation #2] Jean Kpossou | Vol KQ310 (Nairobi) | Statut : VALIDEE | Paye : Non
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Identifiant de la reservation : ----- Details de la reservation #2 -----
+[Passager #2] Jean Kpossou | Tel : 96000002
+[Vol KQ310] Cotonou -> Nairobi | 25/12/2026 06:15 | Prix : 320000 FCFA | Places : 0/1
+Statut        : VALIDEE
+Paiement      : Non effectue
+
+==========================================
+   AGENCE DE VOYAGE - COTONOU
+==========================================
+ 1) Enregistrer un passager
+ 2) Ajouter un vol
+ 3) Afficher les vols disponibles
+ 4) Rechercher un vol
+ 5) Effectuer une reservation
+ 6) Enregistrer un paiement
+ 7) Annuler une reservation
+ 8) Consulter les reservations
+ 9) Afficher les informations d'une reservation
+10) Quitter
+------------------------------------------
+Votre choix : Saisie invalide : entrez un nombre entier.
+Votre choix : Au revoir !
